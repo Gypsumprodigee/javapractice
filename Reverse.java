@@ -1,5 +1,5 @@
 //4 Ways of Reverse a Number
-import java.util.Scanner;
+//import java.util.Scanner;
 
 public class Reverse {
     public static void main(String[] args) {
