@@ -17,6 +17,7 @@ public class sum_array
             arr [i]=sc.nextInt();
            // sum = sum + arr [i];
        }
+       //or
        for(int value : arr)
        {
             sum = sum + value;
