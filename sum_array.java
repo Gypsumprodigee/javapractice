@@ -15,7 +15,11 @@ public class sum_array
        for(int i = 0;i < t;i++)
        {
             arr [i]=sc.nextInt();
-            sum = sum + arr [i];
+           // sum = sum + arr [i];
+       }
+       for(int value : arr)
+       {
+            sum = sum + value;
        }
        System.out.print("Sum of Elements : "+sum);
     }
