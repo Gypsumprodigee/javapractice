@@ -1,4 +1,4 @@
-
+// Print Even & Odd Numbers from an Array
 import java.util.Arrays;
 
 public class EvenOddArray
