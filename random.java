@@ -20,5 +20,6 @@ public class random
             s = str.charAt(rand.nextInt(50));
             System.out.print(s);
         }
+        sc.close();
     }
 }
