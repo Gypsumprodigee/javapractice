@@ -4,6 +4,9 @@ import java.util.Scanner;
 // Find Sum of Elements in Array
 public class sum_array 
 {
+    /**
+     * @param args
+     */
     public static void main(String []args)
     {
        Scanner sc = new Scanner(System.in);
@@ -23,5 +26,6 @@ public class sum_array
             sum = sum + value;
        }
        System.out.print("Sum of Elements : "+sum);
+       sc.close();
     }
 }
