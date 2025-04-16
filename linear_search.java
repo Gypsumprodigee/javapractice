@@ -3,7 +3,7 @@ public class linear_search
     public static void main(String []args)
     {
         int [] a = {4,5,3,6,2,1,9,21};
-        int key = 20;
+        int key = 2;
         boolean flag = false;
         for(int i = 0 ;i < a.length ; i++)
         {
